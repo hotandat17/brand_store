@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Delicious_Food.Areas.Administrator.AdministratorAreaRegistration>
+@{
+    ViewBag.Title = "Đăng Nhập";
+    Layout = "~/Areas/Administrator/Views/Shared/_LayoutDN.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+     <div class="login">
+        <div class="account-login">
+            <h1>ĐĂNG NHẬP TÀI KHOẢN QUẢN TRỊ</h1>
+            <form action="" class="login-form">
+                <div class="form-group">
+                    <input type="text" placeholder="User Name" class="form-control"name="adAcc">
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Password" class="form-control"name="adPass">
+                </div>
+                <div class="remember">
+                    <label class="custom-checkbox">
+                        Remember me
+                        <input type="checkbox">
+                        <span class="checkmark"></span>
+                    </label>
+                    <a href="#" class="pull-right">Forgot Password?</a>
+                </div>
+                <input type="submit" value="Đăng nhập" class="btn btn-lg btn-success btn-block" />
+                <a href="@Url.Action("registration","Account")" class="btn btn-lg btn-danger btn-block">Đăng Kí Thành Viên</a>
+            </form>
+        </div>
+    </div>
+}
+
+

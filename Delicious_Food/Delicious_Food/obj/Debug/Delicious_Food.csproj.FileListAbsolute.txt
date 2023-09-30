@@ -1,0 +1,315 @@
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\Delicious_Food.dll.config
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\Delicious_Food.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\Delicious_Food.pdb
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\csc.exe
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\csc.exe.config
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\csc.rsp
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\csi.exe
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\csi.exe.config
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\csi.rsp
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.AppContext.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Console.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.Compression.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Net.Http.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.ValueTuple.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\vbc.exe
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\vbc.exe.config
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\vbc.rsp
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\VBCSCompiler.exe
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\EntityFramework.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\EntityFramework.SqlServer.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Helpers.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Mvc.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Razor.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Deployment.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Razor.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\EntityFramework.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\EntityFramework.SqlServer.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Razor.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Deployment.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Razor.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Helpers.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\System.Web.Mvc.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ Án\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.AssemblyReference.cache
+D:\Đồ Án\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.dll
+D:\Đồ Án\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.pdb
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\Delicious_Food.dll.config
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\Delicious_Food.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\Delicious_Food.pdb
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csc.exe
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csc.exe.config
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csc.rsp
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csi.exe
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csi.exe.config
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csi.rsp
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Console.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\vbc.exe
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\vbc.exe.config
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\vbc.rsp
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\EntityFramework.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Helpers.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Mvc.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Razor.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Razor.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\EntityFramework.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Razor.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Razor.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Helpers.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Mvc.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.CopyComplete
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.pdb
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\PagedList.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\PagedList.Mvc.dll
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\PagedList.xml
+C:\Users\PC\Downloads\Delicious_Food\Delicious_Food\Delicious_Food\bin\PagedList.Mvc.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\Delicious_Food.dll.config
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\Delicious_Food.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\Delicious_Food.pdb
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csc.exe
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csc.exe.config
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csc.rsp
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csi.exe
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csi.exe.config
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\csi.rsp
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.AppContext.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Collections.Immutable.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Console.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Globalization.Calendars.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.Compression.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.FileSystem.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Net.Http.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Net.Sockets.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Reflection.Metadata.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.ValueTuple.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XPath.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\vbc.exe
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\vbc.exe.config
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\vbc.rsp
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\VBCSCompiler.exe
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\roslyn\VBCSCompiler.exe.config
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\EntityFramework.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\EntityFramework.SqlServer.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\Microsoft.Web.Infrastructure.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\PagedList.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\PagedList.Mvc.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Helpers.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Mvc.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Razor.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Deployment.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Razor.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\EntityFramework.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\EntityFramework.SqlServer.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\PagedList.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\PagedList.Mvc.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Razor.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Deployment.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Razor.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Helpers.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\System.Web.Mvc.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.AssemblyReference.cache
+E:\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.CoreCompileInputs.cache
+E:\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.CopyComplete
+E:\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.dll
+E:\Delicious_Food\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.pdb
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\Delicious_Food.dll.config
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\Delicious_Food.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\Delicious_Food.pdb
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\csc.exe
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\csc.exe.config
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\csc.rsp
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\csi.exe
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\csi.exe.config
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\csi.rsp
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.AppContext.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Collections.Immutable.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Console.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Globalization.Calendars.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.Compression.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.FileSystem.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Net.Http.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Net.Sockets.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Reflection.Metadata.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.ValueTuple.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XPath.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\vbc.exe
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\vbc.exe.config
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\vbc.rsp
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\VBCSCompiler.exe
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\roslyn\VBCSCompiler.exe.config
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\EntityFramework.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\EntityFramework.SqlServer.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\Microsoft.Web.Infrastructure.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\PagedList.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\PagedList.Mvc.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Helpers.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Mvc.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Razor.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Deployment.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Razor.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\EntityFramework.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\EntityFramework.SqlServer.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\PagedList.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\PagedList.Mvc.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Razor.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Deployment.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Webpages.Razor.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Helpers.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\System.Web.Mvc.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.AssemblyReference.cache
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.CoreCompileInputs.cache
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.csproj.CopyComplete
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.dll
+E:\Delicious_Food\DoAn_LTWeb\Delicious_Food\Delicious_Food\obj\Debug\Delicious_Food.pdb

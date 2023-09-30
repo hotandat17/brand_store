@@ -1,0 +1,150 @@
+﻿@model Delicious_Food.Models.Administrator
+
+@{
+    ViewBag.Title = "registration";
+    Layout = "~/Areas/Administrator/Views/Shared/_LayoutDN.cshtml";
+}
+
+<style>
+    input {
+        width: 280px;
+        padding: 4px;
+        font-family: cursive;
+        border-radius: 12px;
+        outline: none;
+        border: 1px solid;
+    }
+    .dk1 {
+        width: 280px;
+        padding: 4px;
+        font-family: cursive;
+        border-radius: 12px;
+        outline: none;
+        border: 1px solid;
+    }
+
+    .dk {
+        width: 280px;
+        padding: 4px;
+        font-family: cursive;
+        border-radius: 12px;
+        outline: none;
+        border: 1px solid;
+        background-color: cadetblue;
+    }
+
+    select {
+        width: 280px;
+        padding: 4px;
+        font-family: cursive;
+        border-radius: 12px;
+        outline: none;
+        border: 1px solid;
+    }
+    button {
+        width: 280px;
+        padding: 10px;
+        border-radius: 12px;
+        background: #66ec4d;
+        font-size: 20px;
+        font-family: cursive;
+    }
+    
+</style>
+<form action="/Account/registration" method="post" enctype = "multipart/form-data" >
+    <div class="login">
+        <div class="account-login">
+            <div class="form-horizontal row">
+                <h1>ĐĂNG KÍ THÀNH VIÊN</h1>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    <label>Tên Đăng Nhập</label>
+                    <div>
+                        <input type="text" name="adAcc" id="adAcc" />
+                        @ViewData["tb1"]
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Mật Khẩu</label>
+                    <div>
+                        <input type="password" name="adPass" id="adPass" />
+                        @ViewData["tb2"]
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Nhập Lại Mật Khẩu</label>
+                    <div>
+                        <input type="password" name="adPass" id="adPass" />
+                        @ViewData["tb2"]
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Họ Và Tên</label>
+                    <div>
+                        <input type="text" name="fullname" id="fullname" />
+                        @ViewData["tb4"]
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Gmail</label>
+                    <div>
+                        <input type="email" name="gmail" id="gmail" />
+                        @ViewData["tb5"]
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Địa Chỉ</label>
+                    <div>
+                        <input type="text" name="address" id="address" />
+                        @ViewData["tb6"]
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Số Điện Thoại</label>
+                    <div>
+                        <input type="number" name="adphone" id="adphone" />
+                        @ViewData["tb7"]
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Giới Tính</label>
+                    <div>
+                        <div class="checkbox">
+                            <select name="adsex" id="adsex">
+                                <option>Giới Tính</option>
+                                <option>Nam</option>
+                                <option>Nữ</option>
+                            </select>
+                            @ViewData["tb9"]
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Hình Thành Viên</label>
+                    <div>
+                        <input type="file" name="file" id="file" />
+                        @ViewData["tb8"]
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div>
+                        <button type="submit">Đăng Kí</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>
+
+
+

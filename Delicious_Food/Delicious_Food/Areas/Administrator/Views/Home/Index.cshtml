@@ -1,0 +1,41 @@
+﻿@model Delicious_Food.Models.Administrator
+
+@{
+    ViewBag.Title = "Quản Trị";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+<link href="~/Theme/lamdep.css" rel="stylesheet" />
+
+@if (Session["accname"] != null)
+{
+    <div class="profile-card">
+        <div class="card-header">
+            <div class="pic">
+                 @if(Session["fullname"] != null) { <img src="@Session["Imgtv"]" alt=""> }
+            </div>
+            @if(Session["fullname"] != null) {<div class="name">@Session["fullname"]</div> }
+            @if(Session["accname"] != null) {<div class="desc"><i class="fas fa-user"></i>User :@Session["accname"]</div>}
+            <div>
+            @if (Session["gmail"] != null){<h4 class="text-danger"><i class="fas fa-paper-plane"></i> Gmail: @Session["gmail"]</h4>}
+            @if (Session["address"] != null){<h4 class="text-danger"><i class="fas fa-map-marker-alt"></i> Address: @Session["address"]</h4>}
+            @if (Session["adphone"] != null){<h4 class="text-danger"><i class="fas fa-phone"></i> Phone: @Session["adphone"]</h4>}
+            </div> 
+            <a href="@Url.Action("Logout", "Account")" class="contact-btn">Out Login</a>
+        </div>
+        <div class="card-footer">
+            <div class="numbers">
+                <span>Đồ án lập trình web</span>
+                <span> *Nhóm*  </span>
+                <span>Hồ Tấn Đạt - 2000001386</span>
+                <span>Trần Duy Hùng - 2000002029</span>
+
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <h1>@Html.ActionLink("Đăng Nhập Thành Viên", "Login", "Account")</h1>
+    <h1>@Html.ActionLink("Đăng Kí Thành Viên", "registration", "Account")</h1>
+}
